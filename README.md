@@ -9,10 +9,11 @@ The coding challenge directory contains the source code and class files for my s
 Question is given below:
 -------------------------
 
-1-800-CODING-CHALLENGEMany companies like to list their phone numbers using the letters printed on most telephones. 
-This makes the number easier to remember for customers. An example may be 1-800-FLOWERSThis coding challenge 
-is to write a program that will show a user possible matches for a list of provided phone numbers.Your program should 
-be a command line application that reads from ﬁles speciﬁed as command-line arguments or STDIN when no ﬁles are given. 
+1-800-CODING-CHALLENGE
+
+Many companies like to list their phone numbers using the letters printed on most telephones. 
+This makes the number easier to remember for customers. An example may be 1-800-FLOWERS.
+This coding challenge is to write a program that will show a user possible matches for a list of provided phone numbers.Your program should be a command line application that reads from ﬁles speciﬁed as command-line arguments or STDIN when no ﬁles are given. 
 Each line of these ﬁles will contain a single phone number.For each phone number read, your program should output 
 all possible word replacements from a dictionary. Your program should try to replace every digit of the provided 
 phone number with a letter from a dictionary word; however, if no match can be made, a single digit can be left
