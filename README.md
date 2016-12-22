@@ -6,6 +6,10 @@ This is the program for 1-800 Coding challenge exercise for Aconex Java Manager 
 
 The coding challenge directory contains the source code and class files for my submission. It also includes Unit Test cases as well.
 
+I haven't followed any Java Naming Conventions but certianly used OOPs concepts and priciples.
+
+This code is fool proof as far as I know and would not fail in most of the cases.
+
 Question is given below:
 -------------------------
 
